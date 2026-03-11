@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.so
+*.o
+.cache/
+data/raw
+data/processed
